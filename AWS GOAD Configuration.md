@@ -1,4 +1,6 @@
 
+---
+
 
 **Project GOAD in [GitHub](https://github.com/Orange-Cyberdefense/GOAD?tab=readme-ov-file)** 
 
@@ -18,5 +20,6 @@
 ## [[Step 3-Create config Files]]
 
 
-## [[Step 4-Installation]]
+## [[Step 4-Deployment]]
 
+Step 5-Provisioning

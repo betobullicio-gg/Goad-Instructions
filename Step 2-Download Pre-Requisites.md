@@ -1,6 +1,8 @@
 
 ---
 
+Connect to your ec2 instance for the next steps ([[Connect to your Instance]])
+
 You will need some python libraries and modules before start the installation process.
 Run the following commands in order to get them.
 

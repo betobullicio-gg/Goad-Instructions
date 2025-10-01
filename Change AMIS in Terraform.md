@@ -1,4 +1,6 @@
 
+---
+
 If you want to use other region you will need to change the AMIS in each .tf file
 
 - First look for available AMI for your AWS region with command

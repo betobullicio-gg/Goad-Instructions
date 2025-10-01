@@ -25,7 +25,7 @@ In the nano file establish the following values:
 provider = aws
 
 [default]
-lab = GOAD-Light
+lab = GOAD
 region = eu-west-3
 name_prefix = goad
 

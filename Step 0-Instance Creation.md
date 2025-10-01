@@ -39,7 +39,7 @@ And ip range: Anywhere 0.0.0.0/0
 
 ==-Note:== This configuration is very insecure but we just focus on using this instance for the deployment so when its done we can shutdown the instance; you can change the VPC's configuration later.
 
-- Configuration Storage: 1x 15gb / gp3
+- Configuration Storage: 1x 20gb / gp3
 
 
  Leave everything else as default and click **Launch instance** 
